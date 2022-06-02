@@ -5,7 +5,7 @@
 
 ## Learn with me
 
-![foto](Seven-z01/Seven-z01/mona-whisper.gif)
+![foto](https://github.com/Seven-z01/GitHub-Resources/blob/e9a15e5594c60540c7b23fa0c509163324ec4c26/gif/mona-whisper.gif)
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
