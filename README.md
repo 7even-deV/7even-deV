@@ -5,6 +5,8 @@
 
 ## Learn with me
 
+![foto](Seven-z01/Seven-z01/mona-whisper.gif)
+
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Unity](https://img.shields.io/badge/Unity-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
@@ -12,8 +14,8 @@
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Fuentes_Moya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://SergioFuentesMoya.com/linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-@devexperto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://Seven-zo0.com/instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Fuentes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://SergioFuentesMoya.com/linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-@Seven-zo0-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://Seven-zo0.com/instagram)
 
 ## Contact me:
 
