@@ -20,10 +20,12 @@ Welcome to my repository! I'm a passionate backend developer at Nter, with exper
 
 ### Get in Touch:
 
-- If you have any questions or just want to chat about development, feel free to reach out. You can find me on LinkedIn or follow me on Twitter.
+- If you have any questions or just want to chat about development, feel free to reach out. You can find me on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Fuentes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/SergioFuentesMoya)
 
 🔗 <https://github.com/7even-deV>
+
+#
 
 Thanks for visiting my profile! I hope you find something interesting here. 😊
