@@ -4,11 +4,11 @@
 Currently doing a bootcamp in Big-data KeepCoding, Machine Learning and Artificial Intelligence.  
 And I'm doing an internship at Bosonit as a backend developer
 
-🔗 <https://github.com/Seven-z01>
+🔗 <https://github.com/7even-deV>
 
 ## Learn with me ⭐
 
-![](https://github.com/Seven-z01/GitHub-Resources/blob/e9a15e5594c60540c7b23fa0c509163324ec4c26/gif/mona-whisper.gif)
+![](https://github.com/7even-deV/GitHub-Resources/blob/e9a15e5594c60540c7b23fa0c509163324ec4c26/gif/mona-whisper.gif)
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
