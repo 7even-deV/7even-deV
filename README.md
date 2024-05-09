@@ -1,22 +1,29 @@
-# 👋 Hi there, my name is Sergio Fuentes, aka. (Seven)
-### I am a student of Big-Data/Backend. And Freelance Game developer, using Unity.
-
-Currently doing a bootcamp in Big-data KeepCoding, Machine Learning and Artificial Intelligence.  
-And I'm doing an internship at Bosonit as a backend developer
-
-🔗 <https://github.com/7even-deV>
-
-## Learn with me ⭐
+# Hi, I'm [Seven deV](https://github.com/7even-deV) ⭐
 
 ![](https://github.com/7even-deV/GitHub-Resources/blob/e9a15e5594c60540c7b23fa0c509163324ec4c26/gif/mona-whisper.gif)
 
-## Skills:
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
-![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)</br>
-![CSharp](https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=101010)</br>
+## Backend Developer | Passionate about Video Games and Apps
 
-## Find me at:
+Welcome to my repository! I'm a passionate backend developer at Nter, with experience in building robust and scalable systems. My focus lies in designing and implementing efficient solutions that power applications and video games.
+
+### What You'll Find Here:
+
+- **Video Game Projects:** I love exploring the world of video games. In this repository, you'll find some of my personal projects, ranging from small prototypes to complete games. I hope you'll find something inspiring!
+
+- **Web Applications and APIs:** Besides video games, I'm also enthusiastic about web application development and APIs. Here, I'll share code, tutorials, and examples from my creations.
+
+### Technologies I Work With:
+
+- **Programming Languages:** Java, C#, Python, SQL, MD, Json, XML
+- **Frameworks and Tools:** Spring, Angular, Unity, Git, Docker, Swagger, Dbeaver
+- **Databases:** MySQL, PostgreSQL, SqlLite, SqlServer, MongoDB
+
+### Get in Touch:
+
+- If you have any questions or just want to chat about development, feel free to reach out. You can find me on LinkedIn or follow me on Twitter.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Fuentes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/SergioFuentesMoya)
 
-## Contact me:
+🔗 <https://github.com/7even-deV>
+
+Thanks for visiting my profile! I hope you find something interesting here. 😊
